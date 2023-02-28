@@ -7,10 +7,10 @@ The imapct of those vulnerabilities varies between unauthorized command exectuti
 https://user-images.githubusercontent.com/45386823/221898164-dc192857-2611-4285-bbe6-651f7d6febc1.mp4
 
 ## Vulnerabilities
-* [CVE-2022-26579](cves/CVE-2022-26579.md): Application Signature Verification Bypass
-* [CVE-2022-26580](cves/CVE-2022-26580.md): Command Injection in ADB Daemon
-* [CVE-2022-26581](cves/CVE-2022-26581.md): Mulitple Unauthorized Backdoor Functionalities in ADB Daemon
-* [CVE-2022-26582](cves/CVE-2022-26582.md): Privilege Escalation Through Argument Injection in Systool Client
+* [CVE-2022-26579](CVEs/CVE-2022-26579.md): Application Signature Verification Bypass
+* [CVE-2022-26580](CVEs/CVE-2022-26580.md): Command Injection in ADB Daemon
+* [CVE-2022-26581](CVEs/CVE-2022-26581.md): Mulitple Unauthorized Backdoor Functionalities in ADB Daemon
+* [CVE-2022-26582](CVEs/CVE-2022-26582.md): Privilege Escalation Through Argument Injection in Systool Client
 
 ## Affected Systems
 These vulnerabilities were discovered on PAX A930 running PayDroid_7.1.1_Virgo_V04.3.26T1_20210419. However, they may affect other terminals and versions. Please refer to PAX Technology for clarification on vulnerable terminals and/or versions and their respective patched version.
