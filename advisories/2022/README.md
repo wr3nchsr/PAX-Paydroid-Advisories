@@ -4,8 +4,7 @@ This advisory shows the results of a vulnerability research which was conducted 
 The imapct of those vulnerabilities varies between unauthorized command exectution, privilege escalation and signature check bypass. An attacker who is able to chain some of those vulnerabilities is able to gain RCE as root and install unsigned applications (ex: credit card sniffer) on a production mode POS.
 
 ## Exploit Chain Showcase
-![POC](assets/poc.mp4)
-
+https://user-images.githubusercontent.com/45386823/221898164-dc192857-2611-4285-bbe6-651f7d6febc1.mp4
 
 ## Vulnerabilities
 * [CVE-2022-26579](cves/CVE-2022-26579.md): Application Signature Verification Bypass
